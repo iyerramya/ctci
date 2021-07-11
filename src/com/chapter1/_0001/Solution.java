@@ -1,8 +1,8 @@
 // implement an algorithm to determine if a atring has all unique characters.
 
-package com.chapter1;
+package com.chapter1._0001;
 
-public class _1isUnique {
+public class Solution {
     public static class isUnique11 {
         public static void main(String[] args) {
             String str = "ramyA";
